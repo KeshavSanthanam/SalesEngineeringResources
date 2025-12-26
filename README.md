@@ -1,6 +1,3 @@
-# SalesEngineeringResources
-A collection of resources I have been using to transition into sales engineering
-
 ## Books list
 ### Sales
 - "Mastering Technical Sales" (still reading)
@@ -10,4 +7,3 @@ A collection of resources I have been using to transition into sales engineering
     - Focus on big businesses
 - "Simple Numbers, Straight Talk, Big Profits! 4 Keys to Unlock Your Business Potential" by Greg Crabtree
     - Focus on small businesses
-- 
