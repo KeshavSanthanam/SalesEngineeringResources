@@ -1,6 +1,7 @@
 ## Books list
 ### Sales
-- "Mastering Technical Sales" (still reading)
+- "Mastering Technical Sales"
+- "The Challenger Sale"
 
 ### Corporate Finance + Strategy
 - "Corporate Turnaround Artistry" by Jeff Sands
